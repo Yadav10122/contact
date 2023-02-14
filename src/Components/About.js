@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div className='container' style={{ marginTop: 100 }}>
+    <div className='container' style={{ marginTop: 200 }}>
       <div class="accordion" id="accordionExample">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
@@ -24,7 +24,7 @@ export default function About() {
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              Hello, my name is Aman Yadav(BTech 2022), and I created this project. I am a front-end developer. I have completed my reactJS, html, CSS, and Javascript skills from Coding Ninjas. It was a really great experience to learn from such a great team. I have also done my DSA training from Coding Ninjas. I have also developed some projects that you can have a look into.  <a href='https://github.com/Yadav10122/My-Contact-List' target="_blank" rel="noreferrer">This is my github repository link.</a> You can have a look I have worked on  different projects and will be working on more. I am a quick learner. I like to try new things. This is my thing. So this is all about me You can connect with me <strong> amanyadav10122@gmail.com or 8305170180  </strong> and we can be friends, or you can be my boss. Who knows? See you later.
+              Hello, my name is Aman Yadav(BTech 2022), and I created this project. I am a front-end developer. I have completed my reactJS, html, CSS, and Javascript skills from Coding Ninjas. It was a really great experience to learn from such a great team. I have also done my DSA training from Coding Ninjas. I have also developed some projects that you can have a look into.  <a href='https://github.com/Yadav10122/contact' target="_blank" rel="noreferrer">This is my github repository link.</a> You can have a look I have worked on  different projects and will be working on more. I am a quick learner. I like to try new things. This is my thing. So this is all about me You can connect with me <strong> amanyadav10122@gmail.com or 8305170180  </strong> and we can be friends, or you can be my boss. Who knows? See you later.
             </div>
           </div>
         </div>
