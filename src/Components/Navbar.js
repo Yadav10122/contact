@@ -51,7 +51,7 @@ export default function Navbar() {
 
 
 
-            <div className="container " style={{ marginTop: 100 }}>
+            <div className="container " style={{ marginTop: 200 }}>
 
                 <div className="d-flex  justify-content-between m-2">
                     <h2>My Contact List</h2>
